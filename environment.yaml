@@ -60,7 +60,6 @@ dependencies:
   - importlib_resources=5.2.0=pyhd3eb1b0_1
   - intel-openmp=2021.4.0=h06a4308_3561
   - ipykernel=6.9.1=py38h06a4308_0
-  - ipython=8.4.0=py38h06a4308_0
   - isort=5.9.3=pyhd3eb1b0_0
   - jedi=0.18.1=py38h06a4308_1
   - joblib=1.1.0=pyhd3eb1b0_0
@@ -158,7 +157,6 @@ dependencies:
   - pyqt=5.15.7=py38h6a678d5_1
   - pyqt5-sip=12.11.0=py38h6a678d5_1
   - pysocks=1.7.1=py38h06a4308_0
-  - python=3.8.13=h12debd9_0
   - python-dateutil=2.8.2=pyhd3eb1b0_0
   - python_abi=3.8=2_cp38
   - pytorch=2.2.0=py3.8_cuda11.8_cudnn8.7.0_0
